@@ -1,0 +1,1 @@
+Дистрибутив neKassir для Windows
